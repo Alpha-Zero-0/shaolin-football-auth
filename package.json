@@ -1,0 +1,15 @@
+{
+  "name": "football-game-auth",
+  "version": "1.0.0",
+  "description": "Football Game with Firebase Auth and MongoDB",
+  "scripts": {
+    "dev": "npm run dev:backend & npm run dev:frontend",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": ["football", "game", "firebase", "mongodb", "auth"],
+  "author": "",
+  "license": "MIT"
+}
