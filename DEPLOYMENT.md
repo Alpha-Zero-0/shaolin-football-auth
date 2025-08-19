@@ -31,10 +31,6 @@ FIREBASE_PRIVATE_KEY="your_firebase_private_key_with_newlines_escaped"
    - Get your connection string
    - Add to `.env`
 
-4. **Enable Firebase Authentication**:
-   - Go to Firebase Console → Authentication → Sign-in method
-   - Enable Google Sign-in
-   - Add localhost to authorized domains
 
 ### Run the Application
 
